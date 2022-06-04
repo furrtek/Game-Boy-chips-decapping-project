@@ -13,7 +13,7 @@ Images were taken with a magnification of x250 or x500 (depending on the total s
 To complete this project, some interesting readings about the MBCs can be found into the [Brendan's Website](https://b13rg.github.io/Gameboy-MBC-Analysis/), into the [Gekkio database](https://gbhwdb.gekkio.fi/cartridges/) and into the [gbdev wiki](https://gbdev.gg8.se/wiki/articles/Memory_Bank_Controllers).
 
 # Game Boy MBC1 mapper
-Unknown game - Unknown manufacturer - Chip marking: **DMG MBC1-B Nintendo P 2°94** [High resolution here](https://drive.google.com/file/d/11IMe75MVlMv_imL12D-UjlCwxDRTgbdM/view?usp=sharing)
+Unknown game - Manufacturer: **Matsushita** - Chip marking: **DMG MBC1-B Nintendo P 2°94** [High resolution here](https://drive.google.com/file/d/11IMe75MVlMv_imL12D-UjlCwxDRTgbdM/view?usp=sharing)
 
 ![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/DMG%20MBC1-B%20Nintendo%20P%202%C2%B094-preview.png)
 
@@ -71,7 +71,7 @@ Unknown game - Manufacturer: **ROHM** - Chip marking: **MBC-7 BU3667KS 035 128**
 ![MBC-7 BU3667KS 035 128](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC-7%20BU3667KS%20035%20128-preview.png)
 
 # Game Boy Camera MAC-GBD mapper
-Camera CE10251329, PCB revision 11 - Unknown manufacturer - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing)
+Camera CE10251329, PCB revision 11 - Manufacturer: **Sharp** - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing)
 
 ![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MAC-GBD%20Nintendo%209815%20SA-preview.png)
 
